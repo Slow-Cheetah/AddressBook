@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AddressBook</string>
+    <string name="tile_main">Книга адресов</string>
+    <string name="name">    Имя :</string>
+    <string name="name_hint_et">Поле ввода имени</string>
+    <string name="surname">Фамилия :</string>
+    <string name="surname_hint_et">Поле ввода фамилии</string>
+    <string name="address">Адрес :</string>
+    <string name="address_hint_et">Поле ввода адреса</string>
+    <string name="phone">Телефон :</string>
+    <string name="phone_hint_et">Поле ввода номера</string>
+    <string name="save_text_btn">Сохранить</string>
+</resources>
